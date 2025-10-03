@@ -1,25 +1,26 @@
-<img width="1920" height="1080" alt="Untitled-1" src="https://github.com/user-attachments/assets/7b36029c-3850-4cfa-ace8-ef5afdfb6608" />
 
 
-## 🚔Teedle-AdvancedPitTraining 🚔 ##
-An Advanced **AI PIT Training System** built for serious law enforcement roleplay servers. 
 
-This resource will help you in training your officers on pits, and grapplers when chasing suspects.
+## 🚔Teedle-AdvancedPullover 🚔 ##
+An Advanced **AI Pull Over System** Inspired by SDC pullover - Built for serious Roleplay Police Cities. 
+
+This resource will allow your officers to patrol in city, arrest suspects and many other things within the city without having actual members playing. It will provide them with something to do, instead of sitting around.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ✨ Features
-- 🚘 **AI Vehicle & Driver Spawning** – spawn configurable AI vehicles with a driver.  
-- 🎯 **PIT Maneuver Detection** – AI stops & surrenders when successfully pitted.  
-- 🛑 **Grappler Training Mode** – simulate grappler stops with AI surrender logic.  
-- 🔄 **Auto & Manual Reset Options** – ensures smooth repeatable training.  
-- 📍 **Training Location Blip** – customizable blip with adjustable coords.  
-- ⚙️ **Highly Configurable** – vehicles, speeds, grip, notifications, and more.  
+- 🚘 **Auto Lights Activation** – Once behind suspects vehicle, turn on your lights to be prompt will pullover selection automatically.  
+- 🎯 **Advanced UI** – UI for all your police functionalities.  
+- 🛑 **Highly Optimized** – All of my resources have been tested on all frameworks. Optimized to run at 0 resmon.  
+- 🔄 **Pullover AI Interactions** – When you pull over a suspect, you can press a key you set to interact with them.  
+- 📍 **Highly Customizable** – Everything and anything you could image to configure is within our resources. We try to strive to make all resources configuration friendly.  
+- ⚙️ **Jailing System** – Bring your suspects to jail for a reward. Same for completing pursuits and issuing tickets.  
 - 🔔 **Notification Support**:
   - Standalone (console logging)  
   - ox_lib  
-  - QBCore  
+  - QBCore
   - ESX  
-  - Teedle_Notify (🚧 coming soon 🚧)  
+  - Teedle_Notify (🚧 coming soon 🚧)
+ and many more.  
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -68,3 +69,4 @@ Violations may result in **license termination** and CFX asset portal reporting.
 Need help? Have suggestions? Want changelogs?  
 
 - 💬 Join the official **Discord**: [https://discord.gg/34g6BGnfEa](https://discord.gg/34g6BGnfEa) 
+
