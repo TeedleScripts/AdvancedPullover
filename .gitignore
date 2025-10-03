@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Lua cache
+*.log
+*.ldb
+
+# FiveM specific
+cache/
+*.ytd
+*.ydr
+*.ymt
+*.meta
+
+# Escrow artifacts
+*.fxap
+*.key
