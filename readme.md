@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Untitled-1" src="https://github.com/user-attachments/assets/7c76262e-5825-463b-b751-955a144b8f81" />
+
 
 
 
@@ -69,4 +71,5 @@ Violations may result in **license termination** and CFX asset portal reporting.
 Need help? Have suggestions? Want changelogs?  
 
 - 💬 Join the official **Discord**: [https://discord.gg/34g6BGnfEa](https://discord.gg/34g6BGnfEa) 
+
 
